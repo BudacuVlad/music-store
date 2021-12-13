@@ -42,12 +42,12 @@ The design was made using drawio
 ## Technology stack
 
 - software
-  - intellij - IDE
-  - git - versioning system
-  - github - code repository
-  - java skd 11 - development kit
-  - mysql - database
-  - mysql workbench - database interface
+    - intellij - IDE
+    - git - versioning system
+    - github - code repository
+    - java skd 11 - development kit
+    - mysql - database
+    - mysql workbench - database interface
 
 - backend
     - java - programming language
@@ -56,7 +56,7 @@ The design was made using drawio
     - spring security - security framework
     - junit 5 - testing framework
     - maven - build tool
-  
+
 - frontend
     - thymeleaf - templating engine
     - HTML - markup language
