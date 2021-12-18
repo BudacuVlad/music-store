@@ -2,12 +2,8 @@
 
 # TODO
 
-
 # IN PROGRESS
 
-
-
 # REVIEW
-
 
 # DONE

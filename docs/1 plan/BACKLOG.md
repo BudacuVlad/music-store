@@ -8,29 +8,10 @@
     user can have multiple products
     user can have multiple donations
     
-    user can register and login
-    user can update info
-    user can view product list
-    user can check details of product
-    user can add a product in cart
-    user can track product (shipped/delivered)
-    user can be documented with artist's informations
-    user can view cart
-    user can donate for admin support
-    
-    
-
 ## admin
     admin can have multiple users
     admin can have multiple products
     admin can have multiple artists
-    
-    admin can view user and product list
-    admin can create, update, delete products
-    admin can set estimated time delivery
-    admin can view user with products' situations
-    admin receive donations from users
-    admin can view donation list
 
 ## artist
     artist can have multiple products
@@ -46,15 +27,12 @@
 ##donation
     donation can have multiple users
 
-
 # 3. create epics
     - user
     - products
     - artists
     - donations
     - cart
-
-
 
 # 4. create backlog
 
@@ -89,7 +67,6 @@
 - select amount of donation
 
 ## manage products
-- CRUD product by admin
 - view products list
 - view product details
 - add product in cart
@@ -98,6 +75,7 @@
 ## manage user
 - view user list
 - update user info
+- make donations for admin support
 
 ## cart
 - view cart page
