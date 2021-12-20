@@ -10,7 +10,7 @@
 
 - create mysql database: music-store
 - use the run configuration: MusicStoreApplication
-- open http://localhost:8081/ in browser
+- open http://localhost:8080/ in browser
 
 # Test
 run the unit and integration tests with:
